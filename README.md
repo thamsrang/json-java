@@ -1,4 +1,4 @@
 java-jsonparser
 =========
 
-Convert json to java code and vice versa.
+Convert json to java code. For parsing and generating JSON.
